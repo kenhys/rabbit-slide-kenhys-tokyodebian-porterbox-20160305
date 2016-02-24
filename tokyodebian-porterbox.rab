@@ -1,4 +1,4 @@
-= The way to porterbox (('note: Debianのインフラを借りるには'))
+= The way to porterbox\n(('note: Debianのインフラを借りるには'))
 
 : author
   HAYASHI Kentaro
@@ -12,14 +12,33 @@
   10m
 : theme
   .
+= はじめに
 
-= 最初のスライド
+= これまでの実績
 
-* 項目1
-* 項目2
-* 項目3
+* groonga
+* groonga-normalizer-mysql
+* libhinawa
+* fcitx-imlist
 
-= 二番目のスライド
+= Summary\n(('note:まとめ'))
 
-普通のテキスト普通のテキスト
+= You must do\n(('note:しないといけないこと'))
+
+* スポンサーをみつける\n
+  (('note: find a sponsor'))
+* アカウント申請をDDにする\n
+  (('note: fill in format and send it to a sponsor'))
+* LDAP Gateway経由で鍵登録する
+  (('note:register ssh keys via LDAP gateway'))
+
+= Wait until ...\n(('note:してもらわないといけないこと'))
+
+* RTでticketを起票してもらう\n
+  (('note: create a ticket on RT by DD'))
+* DSAにアカウント登録してもらう\n
+  (('note: create an account by DSA'))
+
+
+= Any Question?\n(('note:質問はありますか?'))
 
