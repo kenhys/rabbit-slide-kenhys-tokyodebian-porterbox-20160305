@@ -19,7 +19,3 @@ include_theme("icon")
 #@block_quote_open_quote_image = "open-quote-sakana.png"
 #@block_quote_close_quote_image = "close-quote-sakana.png"
 
-
-#include_theme("yart")
-#include_theme("sprk2012")
-#include_theme("nyankosakana")
