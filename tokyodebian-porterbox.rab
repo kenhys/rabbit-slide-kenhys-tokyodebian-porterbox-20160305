@@ -14,12 +14,24 @@
   .
 = はじめに
 
-= これまでの実績
+= これまでの実績\n(('note: as a contributor'))
 
 * groonga
 * groonga-normalizer-mysql
 * libhinawa
 * fcitx-imlist
+
+= What is porterbox command\n(('note: porterboxとは'))
+
+  # coderay shell
+  % ./porterbox
+  Architecture       Hostname                 Access
+  --------------------------------------------------------------------
+  armel              abel.debian.org          public
+  arm64              asachi.debian.org        public
+  kfreebsd-amd64     asdfasdf.debian.net      public (non-DSA-machine)
+  amd64              barriere.debian.org      public
+  mipsel             etler.debian.org         public
 
 = Summary\n(('note:まとめ'))
 
