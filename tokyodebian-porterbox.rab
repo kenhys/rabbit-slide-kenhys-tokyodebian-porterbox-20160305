@@ -1,4 +1,4 @@
-= The way to porterbox\n(('note: Debianのインフラを借りるには'))
+= Debianの\nインフラを借りるには\n(('note: The way to porterbox'))
 
 : author
   HAYASHI Kentaro
@@ -12,16 +12,61 @@
   10m
 : theme
   .
-= はじめに
 
-= これまでの実績\n(('note: as a contributor'))
+= 自己紹介(1)\n(('note: Profile'))
+
+  # image
+  # relative-width = 25
+  # relative-height = 25
+  # src = https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pointing_stick.JPG/200px-Pointing_stick.JPG
+
+* Twitter/GitHub: @kenhys
+* 所属: トラックポイント・ソフトドーム派
+
+= 自己紹介(2)\n(('note: Profile'))
+
+トラックポイント・ソフトドーム派
+
+  # image
+  # src = 100000001000433384_10203.jpg
+
+= 今日の話\n(('note: Today's topics'))
+
+* Porterboxとは？\n
+  (('note: What is the porterbox?'))
+
+* Porterboxをなぜ借りたのか？\n
+  (('note: Why did you request access?'))
+
+* どんな手続きをしたのか？\n
+  (('note: What did you do for it?'))
+
+= スライドの元ネタ資料\n(('note: Blog entry'))
+
+  * Debianの移植作業用の\nインフラを借りるには\n
+    (('note: http://www.clear-code.com/blog/2016/2/24.html'))
+
+= これまでの実績\n(('note: As a contributor'))
 
 * groonga
 * groonga-normalizer-mysql
 * libhinawa
-* fcitx-imlist
+* (('wait'))((*fcitx-imlist*))
 
-= What is porterbox command\n(('note: porterboxとは'))
+= Porterboxとは\n(('note: What is porterbox?'))
+
+* 移植作業用のサーバー\n
+  (('note: It indicates servers for porting'))
+
+* Debian開発者は誰でも使える\n
+  (('note: Any DD can use it'))
+
+    # image
+    # relative-width = 30
+    # relative-height = 100
+    # src = machines-cgi.png
+
+= Porterboxコマンドとは\n(('note: What is porterbox command?'))
 
   # coderay shell
   % ./porterbox
