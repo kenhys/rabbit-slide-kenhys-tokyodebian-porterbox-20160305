@@ -28,6 +28,7 @@
 トラックポイント・ソフトドーム派
 
   # image
+  # relative-height = 100
   # src = 100000001000433384_10203.jpg
 
 = 今日の話\n(('note: Today's topics'))
@@ -56,14 +57,14 @@
 = [宣伝] fcitx-imlist(1)
 
 * Fcitxユーザー向け
-* IMを((*コマンドラインから*))切り替えられる
-* キーレイアウトを頻繁に変更するなら便利
+* IMを((*コマンドラインから*))\n切り替えられる
+* キーレイアウトを\n頻繁に変更するなら便利
 
 = [宣伝] fcitx-imlist(2)
 
 * 開発の動機
 
-  * fcitx-configtoolはGUIなのでつらい
+  * fcitx-configtoolは\nGUIなのでつらい
   * 頻繁にIMを変更するのが面倒臭い
 
 = [宣伝] fcitx-imlist(3)
@@ -78,7 +79,7 @@
   mozc (Mozc) [enabled]
   fcitx-keyboard-us (キーボード - 英語 (US)) [enabled]
 
-* fcitx-configtoolと同様の処理
+* 使い方:(({fcitx-imlist -t}))
 
 = [宣伝] fcitx-imlist(4)
 
@@ -103,6 +104,27 @@
     # relative-width = 30
     # relative-height = 100
     # src = machines-cgi.png
+
+= 開発マシンたち\n(('note: Developer Machines'))
+
+* debian.org Developer Machines\n
+  (('note: https://db.debian.org/machines.cgi'))
+* いろんな目的のサーバーがたくさん
+
+= Porterboxどれよ？\n(('note: Where is porterbox?'))
+
+* porterboxだけ\n知りたいのに...\n
+  (('note: Just want to know only porterbox...'))
+
+    # image
+    # relative-width = 50
+    # relative-height = 100
+    # src = machines-cgi.png
+
+= Porterbox\nコマンドを使え\n(('note: Use the porterbox command, Luke'))
+
+* porterbox\n
+  (('note: https://github.com/jbernard/porterbox'))
 
 = Porterboxコマンドとは\n(('note: What is porterbox command?'))
 
