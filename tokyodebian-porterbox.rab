@@ -53,6 +53,44 @@
 * libhinawa
 * (('wait'))((*fcitx-imlist*))
 
+= [宣伝] fcitx-imlist(1)
+
+* Fcitxユーザー向け
+* IMを((*コマンドラインから*))切り替えられる
+* キーレイアウトを頻繁に変更するなら便利
+
+= [宣伝] fcitx-imlist(2)
+
+* 開発の動機
+
+  * fcitx-configtoolはGUIなのでつらい
+  * 頻繁にIMを変更するのが面倒臭い
+
+= [宣伝] fcitx-imlist(3)
+
+  # coderay shell
+  % fcitx-imlist -l
+  fcitx-keyboard-us (キーボード - 英語 (US)) [enabled]
+  mozc (Mozc) [enabled]
+  fcitx-keyboard-jp (キーボード - 日本語) [enabled]
+  % fcitx-imlist -t
+  fcitx-keyboard-jp (キーボード - 日本語) [enabled]
+  mozc (Mozc) [enabled]
+  fcitx-keyboard-us (キーボード - 英語 (US)) [enabled]
+
+* fcitx-configtoolと同様の処理
+
+= [宣伝] fcitx-imlist(4)
+
+  # coderay shell
+  % sudo apt-get install fcitx-imlist
+
+* unstableなら\n簡単にインストールできるよ
+
+= 宣伝終了
+
+閑話休題\n(('note: Back on topic'))
+
 = Porterboxとは\n(('note: What is porterbox?'))
 
 * 移植作業用のサーバー\n
