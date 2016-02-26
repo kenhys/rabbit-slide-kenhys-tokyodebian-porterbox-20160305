@@ -1,4 +1,4 @@
-= Debianの\nインフラを借りるには\n(('note: The way to porterbox'))
+= Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
 
 : author
   HAYASHI Kentaro
@@ -13,7 +13,7 @@
 : theme
   .
 
-= 自己紹介(1)\n(('note: Profile'))
+= 自己紹介(1)\n(('note:Profile'))
 
   # image
   # relative-width = 25
@@ -23,7 +23,7 @@
 * Twitter/GitHub: @kenhys
 * 所属: トラックポイント・ソフトドーム派
 
-= 自己紹介(2)\n(('note: Profile'))
+= 自己紹介(2)\n(('note:Profile'))
 
 トラックポイント・ソフトドーム派
 
@@ -31,23 +31,23 @@
   # relative-height = 100
   # src = 100000001000433384_10203.jpg
 
-= 今日の話\n(('note: Today's topics'))
+= 今日の話\n(('note:Today's topics'))
 
 * Porterboxとは？\n
-  (('note: What is the porterbox?'))
+  (('note:What is the porterbox?'))
 
 * Porterboxをなぜ借りたのか？\n
-  (('note: Why did you request access?'))
+  (('note:Why did you request access?'))
 
 * どんな手続きをしたのか？\n
-  (('note: What did you do for it?'))
+  (('note:What did you do for it?'))
 
-= スライドの元ネタ資料\n(('note: Blog entry'))
+= スライドの元ネタ資料\n(('note:Blog entry'))
 
   * Debianの移植作業用の\nインフラを借りるには\n
-    (('note: http://www.clear-code.com/blog/2016/2/24.html'))
+    (('note:http://www.clear-code.com/blog/2016/2/24.html'))
 
-= これまでの実績\n(('note: As a contributor'))
+= これまでの実績\n(('note:As a contributor'))
 
 * groonga
 * groonga-normalizer-mysql
@@ -90,43 +90,43 @@
 
 = 宣伝終了
 
-閑話休題\n(('note: Back on topic'))
+閑話休題\n(('note:Back on topic'))
 
-= Porterboxとは\n(('note: What is porterbox?'))
+= Porterboxとは\n(('note:What is porterbox?'))
 
 * 移植作業用のサーバー\n
-  (('note: It indicates servers for porting'))
+  (('note:It indicates servers for porting'))
 
 * Debian開発者は誰でも使える\n
-  (('note: Any DD can use it'))
+  (('note:Any DD can use it'))
 
     # image
     # relative-width = 30
     # relative-height = 100
     # src = machines-cgi.png
 
-= 開発マシンたち\n(('note: Developer Machines'))
+= 開発マシンたち\n(('note:Developer Machines'))
 
 * debian.org Developer Machines\n
-  (('note: https://db.debian.org/machines.cgi'))
+  (('note:https://db.debian.org/machines.cgi'))
 * いろんな目的のサーバーがたくさん
 
-= Porterboxどれよ？\n(('note: Where is porterbox?'))
+= Porterboxどれよ？\n(('note:Where is porterbox?'))
 
 * porterboxだけ\n知りたいのに...\n
-  (('note: Just want to know only porterbox...'))
+  (('note:Just want to know only porterbox...'))
 
     # image
     # relative-width = 50
     # relative-height = 100
     # src = machines-cgi.png
 
-= Porterbox\nコマンドを使え\n(('note: Use the porterbox command, Luke'))
+= Porterbox\nコマンドを使え\n(('note:Use the porterbox command, Luke'))
 
 * porterbox\n
-  (('note: https://github.com/jbernard/porterbox'))
+  (('note:https://github.com/jbernard/porterbox'))
 
-= Porterboxコマンドとは\n(('note: What is porterbox command?'))
+= Porterboxコマンドとは\n(('note:What is porterbox command?'))
 
   # coderay shell
   % ./porterbox
@@ -140,24 +140,25 @@
 
 = まとめ\n(('note:Summary'))
 
-Debianの\nインフラを借りるには\n(('note: The way to porterbox'))
+Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
 
 = しないといけないこと\n(('note:You must do'))
 
 * スポンサーをみつける\n
-  (('note: find a sponsor'))
+  (('note:Find a sponsor'))
 * アカウント申請をDDにする\n
-  (('note: fill in format and send it to a sponsor'))
+  (('note:Fill in format and send it to a sponsor'))
 * LDAP Gateway経由で鍵登録する\n
-  (('note:register ssh keys via LDAP gateway'))
+  (('note:Register ssh keys via LDAP gateway'))
 
 = してもらわないと\nいけないこと\n(('note:Wait until ...'))
 
 * RTでticketを起票してもらう\n
-  (('note: create a ticket on RT by DD'))
+  (('note:Ticket is created by DD'))
 * DSAにアカウント登録してもらう\n
-  (('note: create an account by DSA'))
+  (('note:An account is created by DSA'))
 
+= さいごに
 
-= Any Question?\n(('note:質問はありますか?'))
+質問はありますか?\n(('note:Any Questions?'))
 
