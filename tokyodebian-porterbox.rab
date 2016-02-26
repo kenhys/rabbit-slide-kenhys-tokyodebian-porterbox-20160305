@@ -138,18 +138,20 @@
   amd64              barriere.debian.org      public
   mipsel             etler.debian.org         public
 
-= Summary\n(('note:まとめ'))
+= まとめ\n(('note:Summary'))
 
-= You must do\n(('note:しないといけないこと'))
+Debianの\nインフラを借りるには\n(('note: The way to porterbox'))
+
+= しないといけないこと\n(('note:You must do'))
 
 * スポンサーをみつける\n
   (('note: find a sponsor'))
 * アカウント申請をDDにする\n
   (('note: fill in format and send it to a sponsor'))
-* LDAP Gateway経由で鍵登録する
+* LDAP Gateway経由で鍵登録する\n
   (('note:register ssh keys via LDAP gateway'))
 
-= Wait until ...\n(('note:してもらわないといけないこと'))
+= してもらわないと\nいけないこと\n(('note:Wait until ...'))
 
 * RTでticketを起票してもらう\n
   (('note: create a ticket on RT by DD'))
