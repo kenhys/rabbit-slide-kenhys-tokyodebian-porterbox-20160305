@@ -62,7 +62,7 @@
 
 = [宣伝] fcitx-imlist(2)
 
-* 開発の動機
+* (('del:犯行'))開発の動機
 
   * fcitx-configtoolは\nGUIなのでつらい
   * 頻繁にIMを変更するのが面倒臭い
