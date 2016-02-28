@@ -255,10 +255,15 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
   (('note:Key fingerprint'))
   * キーサーバーに登録されている\nものが必要\n
     (('note:Key fingerprint must be registered on keyserver'))
+
+= 補足:申請に必要な情報(3)\n(('note:Required information to request'))
+
+* PGPキーのフィンガープリント\n
+  (('note:Key fingerprint'))
   * db.debian.orgのパスワードは\n暗号化して送付される\n
     (('note:password for db.d.o is encrypted by this key'))
 
-= 補足:申請に必要な情報(3)\n(('note:Required information to request'))
+= 補足:申請に必要な情報(4)\n(('note:Required information to request'))
 
 * PGPキーのフィンガープリント
   (('note:Key fingerprint'))
@@ -267,14 +272,14 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
   * (('wait'))((*キーへのリンクでもない*))\n
     (('note:Not a link to key'))
 
-= 補足:申請に必要な情報(4)\n(('note:Required information to request'))
+= 補足:申請に必要な情報(5)\n(('note:Required information to request'))
 
 * メールアドレス\n
   (('note:E-mail address'))
   * アカウント作成完了通知に使われる\n
     (('note:It is used to notify when account is created'))
 
-= 補足:申請に必要な情報(5)\n(('note:Required information to request'))
+= 補足:申請に必要な情報(6)\n(('note:Required information to request'))
 
 * DMUPに同意するコメント\n
   (('note:Signed agreement to DUMP'))
@@ -342,14 +347,22 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 * ldapscriptsパッケージが必要\n
   (('note:ldapscripts package is required'))
 
-= 補足:鍵を登録\n(('note:Register ssh keys'))
+= 補足:鍵を登録(1)\n(('note:Register ssh keys'))
 
 * 公開鍵の先頭にホストの指定を入れる\n
   (('note:Prepare pubkey with allowed_hosts=...'))
 * gpg --armor --signで署名する\n
   (('note:Sign by gpg --armor --sign'))
+
+= 補足:鍵を登録(2)\n(('note:Register ssh keys'))
+
 * changes@db.debian.orgにメールする\n
   (('note:Send signed text to changes@db.debian.org'))
+
+= ゴール\n(('note: Goal'))
+
+これでporterboxに\nアクセスできます。\nおめでとう！\n
+(('note:Now you can access to porterbox'))
 
 = 注意\n(('note:Notice'))
 
