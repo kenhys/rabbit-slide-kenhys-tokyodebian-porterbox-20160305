@@ -42,6 +42,11 @@
 * どんな手続きをしたのか？\n
   (('note:What did you do for it?'))
 
+= 話さないこと\n(('note:I don't talk about...'))
+
+* 具体的な使いかた\n
+  (('note: Usage about porterbox')) 
+
 = スライドの元ネタ資料\n(('note:Blog entry'))
 
   * Debianの移植作業用の\nインフラを借りるには\n
