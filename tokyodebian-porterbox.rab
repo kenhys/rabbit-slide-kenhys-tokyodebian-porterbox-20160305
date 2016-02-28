@@ -163,27 +163,31 @@
 
 * porterboxの\nアカウント申請メールを\nDDに送付する
 
-= STEP2.\n申請に必要な情報(1)
+= 補足:申請に必要な情報(1)
 
 * 氏名
 * アカウント名
   * porteboxへのログインに使う
 
-= STEP2.\n申請に必要な情報(2)
+= 補足:申請に必要な情報(2)
 
 * PGPキーのフィンガープリント
   * キーサーバーに登録されている\nものが必要
   * db.debian.orgのパスワードは\n暗号化して送付される
   * (('wait'))((*キーIDじゃない*))
   * (('wait'))((*キーへのリンクでもない*))
-  
-= STEP2.\n申請に必要な情報(2)
 
-= STEP2.\n申請に必要な情報(3)
+= 補足:申請に必要な情報(2)
 
 * メールアドレス
   * アカウント作成完了通知に使われる
+
+= 補足:申請に必要な情報(3)
+
 * DMUPに同意するコメント
+
+= STEP2.\n申請に必要な情報(4)
+
 * どのマシンを借りたいか
 * アクセスが必要な理由
 
@@ -208,7 +212,7 @@
   * Short rationale as to why access is needed
     Fix FTBFS.
     https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=770243
-  
+
 = STEP3. チケットを起票せよ
 
 * DDにrt.debian.orgにチケットを起票してもらう
@@ -220,6 +224,14 @@
 = STEP5. 鍵を登録しろ\n(('note:Register ssh key'))
 
 * LDAP ゲートウェイを経由してssh鍵を登録する
+
+= 質問1
+
+Q. 会場の中にDD(Debian Developer)はいらっしゃいませんか?
+
+= 質問2
+
+Q. 会場の中にDM(Debian Maintainer)はいらっしゃいませんか?
 
 = まとめ\n(('note:Summary'))
 
