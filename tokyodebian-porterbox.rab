@@ -295,7 +295,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
     Fix FTBFS.
     https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=770243
 
-= STEP3. チケットを起票せよ
+= STEP3. チケットを\n起票せよ\n(('note:Create a ticket'))
 
 * DDにrt.debian.orgにチケットを起票してもらう
 
