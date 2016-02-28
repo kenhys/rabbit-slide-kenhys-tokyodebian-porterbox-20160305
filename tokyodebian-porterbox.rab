@@ -163,35 +163,53 @@
 
 * porterboxの\nアカウント申請メールを\nDDに送付する
 
-= 補足:申請に必要な情報(1)
+= 補足:申請に必要な情報(1)\n(('note:Required information to request'))
 
-* 氏名
-* アカウント名
-  * porteboxへのログインに使う
+* 氏名\n
+  (('note:First name/Last name'))
+* アカウント名\n
+  (('note:Preferred username'))
+  * porteboxへのログインに使う\n
+    (('note:It is used as your login account to porterbox'))
 
-= 補足:申請に必要な情報(2)
+= 補足:申請に必要な情報(2)\n(('note:Required information to request'))
 
 * PGPキーのフィンガープリント
   * キーサーバーに登録されている\nものが必要
   * db.debian.orgのパスワードは\n暗号化して送付される
+
+= 補足:申請に必要な情報(3)\n(('note:Required information to request'))
+
+* PGPキーのフィンガープリント
   * (('wait'))((*キーIDじゃない*))
   * (('wait'))((*キーへのリンクでもない*))
 
-= 補足:申請に必要な情報(2)
+= 補足:申請に必要な情報(4)\n(('note:Required information to request'))
 
-* メールアドレス
-  * アカウント作成完了通知に使われる
+* メールアドレス\n
+  (('note:E-mail address'))
+  * アカウント作成完了通知に使われる\n
+    (('note:It is used to notify when account is created'))
 
-= 補足:申請に必要な情報(3)
+= 補足:申請に必要な情報(5)\n(('note:Required information to request'))
 
 * DMUPに同意するコメント
+  * https://www.debian.org/devel/dmup.ja.html
 
-= STEP2.\n申請に必要な情報(4)
+= 補足:DMUPとは
 
-* どのマシンを借りたいか
-* アクセスが必要な理由
+  # blockquote
+  # title = Debian マシン使用ポリシー
+  この文書は Debian マシン及びそれに関わるすべての規則についてのポリシーを説明します。
 
-= STEP2.\n申請例
+= 補足:申請に必要な情報(6)\n(('note:Required information to request'))
+
+* どのマシンを借りたいか\n
+  (('note:Which access is needed'))
+* アクセスが必要な理由\n
+  (('note:Why access is needed'))
+
+= STEP2.申請例\n(('note:Example'))
 
   # coderay shell
   * First/Middle/Last-name
