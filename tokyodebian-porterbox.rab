@@ -199,7 +199,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 * https://people.debian.org/~aurel32/qemu/
   * prebuiltイメージはwheezyまで\n
-    (('note:No jessie or later image'))
+    (('note:No jessie or later prebuilt image'))
 
 * QEMU方面明るくないので断念\n
   (('note:I'm not familiar to QEMU yet...'))
