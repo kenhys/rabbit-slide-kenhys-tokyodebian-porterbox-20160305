@@ -221,11 +221,14 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 = STEP1. DDを探せ\n(('note:Find a sponsor'))
 
-* スポンサーしてくれる\nDebian開発者(DD)が必要
+* スポンサーしてくれる\nDebian開発者(DD)が必要\n
+  (('note:Need a DD to sponsor you'))
 
-= STEP2. アカウントの\n申請をせよ
 
-* porterboxの\nアカウント申請メールを\nDDに送付する
+= STEP2. アカウントの\n申請をせよ\n(('note:Send request information'))
+
+* porterboxの\nアカウント申請メールを\nDDに送付する\n
+  (('note:Send request information to a DD'))
 
 = 補足:申請に必要な情報(1)\n(('note:Required information to request'))
 
@@ -267,7 +270,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
   (('note:Signed agreement to DUMP'))
   * https://www.debian.org/devel/dmup.ja.html
 
-= 補足:DMUPとは
+= 補足:DMUPとは\n(('note:What is DMUP'))
 
   # blockquote
   # title = Debian マシン使用ポリシー
@@ -314,9 +317,10 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 = STEP5. 鍵を登録しろ\n(('note:Register ssh key'))
 
-* LDAP ゲートウェイを経由して\nssh鍵を登録する
+* LDAP ゲートウェイを経由して\nssh鍵を登録する\n
+  (('note:Register ssh keys via LDAP gateway'))
 
-= 補足:アカウントの確認
+= 補足:アカウントの確認\n(('note:Confirm your account'))
 
     # coderay shell
     % ldapsearch -LLL -b dc=debian,dc=org -x \
@@ -325,9 +329,10 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
     allowedHost: minkus.debian.org 20160427
     allowedHost: etler.debian.org 20160427
 
-* ldapscriptsパッケージが必要
+* ldapscriptsパッケージが必要\n
+  (('note:ldapscripts package is required'))
 
-= 補足:鍵を登録
+= 補足:鍵を登録\n(('note:Register ssh keys'))
 
 * 公開鍵の先頭にホストの指定を入れる\n
   (('note:Prepare pubkey with allowed_hosts=...'))
@@ -364,6 +369,6 @@ Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
 
 (('tag:center'))
 ないよね？\n
-(('note:I guess that there is no question, don't you?'))
+(('note:There is no question, don't you?'))
 
 
