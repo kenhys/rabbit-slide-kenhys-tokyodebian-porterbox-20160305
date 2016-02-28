@@ -204,6 +204,11 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 * QEMU方面明るくないので断念\n
   (('note:I'm not familiar with QEMU yet...'))
 
+= 結論:\n(('note:Conclution'))
+
+* ならばporterboxを借りよう\n
+  (('note:Then, use the porterbox, anyway'))
+
 = 今日の話\n(('note:Today's topics'))
 
 * Porterboxとは？\n
@@ -345,6 +350,15 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
   (('note:Sign by gpg --armor --sign'))
 * changes@db.debian.orgにメールする\n
   (('note:Send signed text to changes@db.debian.org'))
+
+= 注意\n(('note:Notice'))
+
+* アカウント登録が終わると\n
+  メールアドレスがもらえる\n
+  (('note:You can get E-mail address'))
+* (アカウント)@debian.org
+
+= でも\n使うな
 
 = まとめ\n(('note:Summary'))
 
