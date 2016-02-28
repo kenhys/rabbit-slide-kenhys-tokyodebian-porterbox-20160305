@@ -316,6 +316,26 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 * LDAP ゲートウェイを経由して\nssh鍵を登録する
 
+= 補足:アカウントの確認
+
+    # coderay shell
+    % ldapsearch -LLL -b dc=debian,dc=org -x \
+      -h db.debian.org uid=(申請したユーザー名) allowedHost
+    dn: uid=(申請したユーザー名),ou=users,dc=debian,dc=org
+    allowedHost: minkus.debian.org 20160427
+    allowedHost: etler.debian.org 20160427
+
+* ldapscriptsパッケージが必要
+
+= 補足:鍵を登録
+
+* 公開鍵の先頭にホストの指定を入れる\n
+  (('note:Prepare pubkey with allowed_hosts=...'))
+* gpg --armor --signで署名する\n
+  (('note:Sign by gpg --armor --sign'))
+* changes@db.debian.orgにメールする\n
+  (('note:Send signed text to changes@db.debian.org'))
+
 = まとめ\n(('note:Summary'))
 
 Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
@@ -338,5 +358,12 @@ Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
 
 = さいごに
 
-質問はありますか?\n(('note:Any Questions?'))
+(('tag:center'))
+質問はありますか?\n
+(('note:Any Questions?'))
+
+(('tag:center'))
+ないよね？\n
+(('note:I guess that there is no question, don't you?'))
+
 
