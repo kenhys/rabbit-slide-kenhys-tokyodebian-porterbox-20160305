@@ -148,16 +148,67 @@
 
 = Porterboxを\n借りるには\n(('note:How to request access'))
 
+* Guest Access to porter machines
+  * https://dsa.debian.org/doc/guest-account/
+
+= Porterboxを\n借りるには\n(('note:How to request access'))
+
 * 必要な5つのこと\n(('note:Need to know 5 steps'))
 
 = STEP1. DDを探せ\n(('note:Find a sponsor'))
 
-* スポンサーしてくれるDebian開発者(DD)が必要
+* スポンサーしてくれる\nDebian開発者(DD)が必要
 
-= STEP2. アカウントの申請をせよ
+= STEP2. アカウントの\n申請をせよ
 
-* porterboxのアカウント申請メールをDDに送付する
+* porterboxの\nアカウント申請メールを\nDDに送付する
 
+= STEP2.\n申請に必要な情報(1)
+
+* 氏名
+* アカウント名
+  * porteboxへのログインに使う
+
+= STEP2.\n申請に必要な情報(2)
+
+* PGPキーのフィンガープリント
+  * キーサーバーに登録されている\nものが必要
+  * db.debian.orgのパスワードは\n暗号化して送付される
+  * (('wait'))((*キーIDじゃない*))
+  * (('wait'))((*キーへのリンクでもない*))
+  
+= STEP2.\n申請に必要な情報(2)
+
+= STEP2.\n申請に必要な情報(3)
+
+* メールアドレス
+  * アカウント作成完了通知に使われる
+* DMUPに同意するコメント
+* どのマシンを借りたいか
+* アクセスが必要な理由
+
+= STEP2.\n申請例
+
+  # coderay shell
+  * First/Middle/Last-name
+    HAYASHI Kentaro
+  * Preferred username
+    kenhys
+  * Key fingerprint of the PGP key, which needs to be on the keyserver network.
+    (fingerprint. Not a keyid. Not a link to a site that has a key or a keyserver.
+    A fingerprint.)
+    D920 2564 0886 D27D 14A9  EE02 D22C 1A88 3455 D448
+  * email address
+    hayashi@clear-code.com
+  * Signed agreement to abide by DMUP
+    I agree with DMUP to use porterbox (https://www.debian.org/devel/dmup.en.html)
+  * Machine(s)/Architecture(s) to which access is needed
+    https://db.debian.org/machines.cgi?host=minkus for mips
+    https://db.debian.org/machines.cgi?host=etler for mipsel
+  * Short rationale as to why access is needed
+    Fix FTBFS.
+    https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=770243
+  
 = STEP3. チケットを起票せよ
 
 * DDにrt.debian.orgにチケットを起票してもらう
