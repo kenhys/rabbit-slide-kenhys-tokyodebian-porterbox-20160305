@@ -182,10 +182,11 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 * どんな手続きをしたのか？\n
   (('note:What did you do for it?'))
 
+= FTBFS
 
 = Porterboxを\nなぜ借りたのか？\n(('note:Why did you request access?'))
 
-(('tag:x-large:FTBFS')) on non x86_64
+(('tag:x-large:FTBFS')) on ((*non x86_64*))
 
 = 実機などない\n(('note:There is no baremetal'))
 
