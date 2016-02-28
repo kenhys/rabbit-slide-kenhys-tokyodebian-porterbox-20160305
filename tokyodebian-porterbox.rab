@@ -182,7 +182,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 (('tag:x-large:FTBFS')) on non x86_64
 
-= 実機などない\n(('There is no *'))
+= 実機などない\n(('There is no baremetal'))
 
 * No mips machine
 * No mipsel machine
