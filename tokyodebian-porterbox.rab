@@ -33,12 +33,14 @@
 
 = 質問\n(('note:Question'))
 
-Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
+Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
+  (('note:Are there DD here?')
+
 
 = 前提条件\n(('note:Prerequisite'))
 
 * 今回の発表の対象は\nDDでない人\n
-  (('note:To share a knowledge for non DD'))
+  (('note:This slide is prepared for non DD'))
 
 = 今日の話\n(('note:Today's topics'))
 
