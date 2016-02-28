@@ -196,7 +196,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
   * prebuiltイメージはwheezyまで\n
     (('note:No jessie or later image'))
 
-* qemu方面明るくないので断念\n
+* QEMU方面明るくないので断念\n
   (('note:I'm not familiar to qemu yet...'))
 
 = 今日の話\n(('note:Today's topics'))
