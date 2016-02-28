@@ -79,12 +79,13 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 = [宣伝] fcitx-imlist(2)
 
-* (('del:犯行'))開発の動機
-
-  * fcitx-configtoolは\nGUIなのでつらい\n
+* (('del:犯行'))開発の動機\n
+  (('note:The motivation to develop'))
+  * fcitx-configtoolはGUIでつらい\n
     (('note:fcitx-configtool is a GUI tool'))
-  * 頻繁にIMを((*Fcitxのお作法で*))\n入れかえるのが面倒臭い
-     * 例: 英語キーボード 日本語キーボード
+  * 頻繁にIMを((*Fcitxのお作法で*))\n入れかえるのが面倒臭い\n
+    (('note:Not easy to switch IM in fcitx way'))
+     * 例: 英語キーボード (('&#x21D4;')) 日本語キーボード
 
 = [宣伝] fcitx-imlist(3)
 
@@ -105,7 +106,8 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
   # coderay shell
   % sudo apt-get install fcitx-imlist
 
-* 最近unstable入りしました
+* 最近unstable入りしました\n
+  (('note:You can install it by apt-get on unstable'))
 
 = 宣伝終了
 
@@ -139,7 +141,8 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 * debian.org Developer Machines\n
   (('note:https://db.debian.org/machines.cgi'))
-* いろんな目的のサーバーがたくさん
+* いろんな目的のサーバーが\nたくさんリストアップされる\n
+  (('note:There are many servers in that list'))
 
 = Porterboxどれよ？\n(('note:Where is porterbox?'))
 
