@@ -248,8 +248,11 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 = 補足:申請に必要な情報(3)\n(('note:Required information to request'))
 
 * PGPキーのフィンガープリント
-  * (('wait'))((*キーIDじゃない*))
-  * (('wait'))((*キーへのリンクでもない*))
+  (('note:Key fingerprint'))
+  * (('wait'))((*キーIDじゃない*))\n
+    (('note:Not a keyid'))
+  * (('wait'))((*キーへのリンクでもない*))\n
+    (('note:Not a link to key'))
 
 = 補足:申請に必要な情報(4)\n(('note:Required information to request'))
 
@@ -260,7 +263,8 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 = 補足:申請に必要な情報(5)\n(('note:Required information to request'))
 
-* DMUPに同意するコメント
+* DMUPに同意するコメント\n
+  (('note:Signed agreement to DUMP'))
   * https://www.debian.org/devel/dmup.ja.html
 
 = 補足:DMUPとは
@@ -300,15 +304,17 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 = STEP3. チケットを\n起票せよ\n(('note:Create a ticket'))
 
-* DDにrt.debian.orgにチケットを起票してもらう
+* DDにrt.debian.orgに\nチケットを起票してもらう\n
+  (('note:DD creates a ticket on Request Tracker'))
 
 = STEP4. 座して待て\n(('note:Wait for a while'))
 
-* adminチームにアカウントを用意してもらう
+* 管理者にアカウントを\n用意してもらう\n
+  (('note:DSA creates an account for you'))
 
 = STEP5. 鍵を登録しろ\n(('note:Register ssh key'))
 
-* LDAP ゲートウェイを経由してssh鍵を登録する
+* LDAP ゲートウェイを経由して\nssh鍵を登録する
 
 = まとめ\n(('note:Summary'))
 
