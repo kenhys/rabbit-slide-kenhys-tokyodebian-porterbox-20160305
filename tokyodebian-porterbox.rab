@@ -182,7 +182,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 (('tag:x-large:FTBFS')) on non x86_64
 
-= 実機などない\n(('There is no baremetal'))
+= 実機などない\n(('note:There is no baremetal'))
 
 * No mips machine
 * No mipsel machine
@@ -197,7 +197,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
     (('note:No jessie or later image'))
 
 * QEMU方面明るくないので断念\n
-  (('note:I'm not familiar to qemu yet...'))
+  (('note:I'm not familiar to QEMU yet...'))
 
 = 今日の話\n(('note:Today's topics'))
 
