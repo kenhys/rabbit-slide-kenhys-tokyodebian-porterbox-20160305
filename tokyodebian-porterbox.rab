@@ -238,9 +238,12 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 = 補足:申請に必要な情報(2)\n(('note:Required information to request'))
 
-* PGPキーのフィンガープリント
-  * キーサーバーに登録されている\nものが必要
-  * db.debian.orgのパスワードは\n暗号化して送付される
+* PGPキーのフィンガープリント\n
+  (('note:Key fingerprint'))
+  * キーサーバーに登録されている\nものが必要\n
+    (('note:Key fingerprint must be registered on keyserver'))
+  * db.debian.orgのパスワードは\n暗号化して送付される\n
+    (('note:password for db.d.o is encrypted by this key'))
 
 = 補足:申請に必要な情報(3)\n(('note:Required information to request'))
 
