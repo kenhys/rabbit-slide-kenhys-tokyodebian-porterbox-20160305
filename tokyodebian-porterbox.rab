@@ -307,14 +307,6 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 * LDAP ゲートウェイを経由してssh鍵を登録する
 
-= 質問1
-
-Q. 会場の中にDD(Debian Developer)はいらっしゃいませんか?
-
-= 質問2
-
-Q. 会場の中にDM(Debian Maintainer)はいらっしゃいませんか?
-
 = まとめ\n(('note:Summary'))
 
 Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
