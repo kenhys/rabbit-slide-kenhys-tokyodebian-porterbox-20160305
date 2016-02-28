@@ -109,6 +109,17 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
 
 閑話休題\n(('note:Back on topic'))
 
+= 今日の話\n(('note:Today's topics'))
+
+* ((*Porterboxとは？\n
+  (('note:What is the porterbox?'))*))
+
+* Porterboxをなぜ借りたのか？\n
+  (('note:Why did you request access?'))
+
+* どんな手続きをしたのか？\n
+  (('note:What did you do for it?'))
+
 = Porterboxとは\n(('note:What is porterbox?'))
 
 * 移植作業用のサーバー\n
@@ -154,6 +165,50 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?
   kfreebsd-amd64     asdfasdf.debian.net      public (non-DSA-machine)
   amd64              barriere.debian.org      public
   mipsel             etler.debian.org         public
+
+= 今日の話\n(('note:Today's topics'))
+
+* Porterboxとは？\n
+  (('note:What is the porterbox?'))
+
+* ((*Porterboxをなぜ借りたのか？\n
+  (('note:Why did you request access?'))*))
+
+* どんな手続きをしたのか？\n
+  (('note:What did you do for it?'))
+
+
+= Porterboxを\nなぜ借りたのか？\n(('note:Why did you request access?'))
+
+(('tag:x-large:FTBFS')) on non x86_64
+
+= 実機などない\n(('There is no *'))
+
+* No mips machine
+* No mipsel machine
+* No m68k machine
+
+= QEMU?
+
+= すぐ使えるイメージは？(('note:Where is images?'))
+
+* https://people.debian.org/~aurel32/qemu/
+  * prebuiltイメージはwheezyまで\n
+    (('note:No jessie or later image'))
+
+* qemu方面明るくないので断念\n
+  (('note:I'm not familiar to qemu yet...'))
+
+= 今日の話\n(('note:Today's topics'))
+
+* Porterboxとは？\n
+  (('note:What is the porterbox?'))
+
+* Porterboxをなぜ借りたのか？\n
+  (('note:Why did you request access?'))
+
+* ((*どんな手続きをしたのか？\n
+  (('note:What did you do for it?'))*))
 
 = Porterboxを\n借りるには\n(('note:How to request access'))
 
