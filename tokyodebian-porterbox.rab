@@ -47,7 +47,7 @@
 * 具体的な使いかた\n
   (('note: Usage about porterbox')) 
 
-= スライドの元ネタ資料\n(('note:Blog entry'))
+= スライドの元ネタ資料\n(('note:This slide is based on'))
 
   * Debianの移植作業用の\nインフラを借りるには\n
     (('note:http://www.clear-code.com/blog/2016/2/24.html'))
