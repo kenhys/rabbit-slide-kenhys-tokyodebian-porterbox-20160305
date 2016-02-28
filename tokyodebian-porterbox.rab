@@ -61,15 +61,17 @@
 
 = [宣伝] fcitx-imlist(1)
 
-* Fcitxユーザー向け
-* IMを((*コマンドラインから*))\n切り替えられる
-* 「直接入力」を\n頻繁に変更するなら便利
+* Fcitxユーザー向け\n
+  (('note:For only Fcitx users'))
+* IMを((*コマンドラインから*))\n切り替えられる\n
+  (('note:It switches input methods from command line'))
 
 = [宣伝] fcitx-imlist(2)
 
 * (('del:犯行'))開発の動機
 
-  * fcitx-configtoolは\nGUIなのでつらい
+  * fcitx-configtoolは\nGUIなのでつらい\n
+    (('note:fcitx-configtool is a GUI tool'))
   * 頻繁にIMを((*Fcitxのお作法で*))\n入れかえるのが面倒臭い
      * 例: 英語キーボード 日本語キーボード
 
@@ -85,7 +87,7 @@
   mozc (Mozc) [enabled]
   fcitx-keyboard-us (キーボード - 英語 (US)) [enabled]
 
-* 使い方:(({fcitx-imlist -t}))
+* Usage: ((*fcitx-imlist -t*))
 
 = [宣伝] fcitx-imlist(4)
 
