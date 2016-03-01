@@ -341,6 +341,16 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
    # relative-height = 100
    # src = https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leon_Minkus_-photo_by_B._Braquehais_-circa_1865.JPG/250px-Leon_Minkus_-photo_by_B._Braquehais_-circa_1865.JPG
 
+= etler.d.o(mipsel)豆知識\n(('note:Did you know?'))
+
+* CPUは龍芯3号
+
+    cpu model		: ICT Loongson-3 V0.5  FPU V0.1
+    BogoMIPS		: 718.84
+    wait instruction	: no
+    microsecond timers	: yes
+    tlb_entries		: 64
+
 
 = STEP3. チケットを\n起票せよ\n(('note:Create a ticket'))
 
