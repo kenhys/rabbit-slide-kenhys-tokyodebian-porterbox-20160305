@@ -31,38 +31,6 @@
   # relative-height = 100
   # src = 100000001000433384_10203.jpg
 
-= 質問\n(('note:Question'))
-
-Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
-(('note:Are there DD here?'))
-
-
-= 前提条件\n(('note:Prerequisite'))
-
-* 今回の発表の対象は\nDDでない人\n
-  (('note:This slide is prepared for non DD'))
-
-= 今日の話\n(('note:Today's topics'))
-
-* Porterboxとは？\n
-  (('note:What is the porterbox?'))
-
-* Porterboxをなぜ借りたのか？\n
-  (('note:Why did you request access?'))
-
-* どんな手続きをしたのか？\n
-  (('note:What did you do for it?'))
-
-= 話さないこと\n(('note:I don't talk about...'))
-
-* Porterboxの具体的な使いかた\n
-  (('note: Usage about porterbox')) 
-
-= スライドの元ネタ資料\n(('note:This slide is based on'))
-
-  * Debianの移植作業用の\nインフラを借りるには\n
-    (('note:http://www.clear-code.com/blog/2016/2/24.html'))
-
 = これまでの実績\n(('note:As a contributor'))
 
 * groonga
@@ -112,6 +80,38 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 = 宣伝終了
 
 閑話休題\n(('note:Back on topic'))
+
+= 質問\n(('note:Question'))
+
+Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
+(('note:Are there DD here?'))
+
+
+= 前提条件\n(('note:Prerequisite'))
+
+* 今回の発表の対象は\nDDでない人\n
+  (('note:This slide is prepared for non DD'))
+
+= 今日の話\n(('note:Today's topics'))
+
+* Porterboxとは？\n
+  (('note:What is the porterbox?'))
+
+* Porterboxをなぜ借りたのか？\n
+  (('note:Why did you request access?'))
+
+* どんな手続きをしたのか？\n
+  (('note:What did you do for it?'))
+
+= 話さないこと\n(('note:I don't talk about...'))
+
+* Porterboxの具体的な使いかた\n
+  (('note: Usage about porterbox')) 
+
+= スライドの元ネタ資料\n(('note:This slide is based on'))
+
+  * Debianの移植作業用の\nインフラを借りるには\n
+    (('note:http://www.clear-code.com/blog/2016/2/24.html'))
 
 = 今日の話\n(('note:Today's topics'))
 
