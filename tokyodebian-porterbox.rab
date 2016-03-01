@@ -321,6 +321,23 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
     Fix FTBFS.
     https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=770243
 
+= etler.d.o(mipsel)豆知識\n(('note:Did you know?'))
+
+* Alvin Derald Etler\n(('tag:x-small'))(作曲家・オーボエ奏者)
+
+   # image
+   # relative-height = 100
+   # src = http://image2.findagrave.com/photos250/photos/2015/48/6690866_1424314005.jpg
+
+= minkus.d.o(mips)豆知識\n(('note:Did you know?'))
+
+* Léon Fedorovich Minkus\n(('tag:x-small'))(作曲家・劇場指揮者・ヴァイオリニスト)
+
+   # image
+   # relative-height = 100
+   # src = https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leon_Minkus_-photo_by_B._Braquehais_-circa_1865.JPG/250px-Leon_Minkus_-photo_by_B._Braquehais_-circa_1865.JPG
+
+
 = STEP3. チケットを\n起票せよ\n(('note:Create a ticket'))
 
 * DDにrt.debian.orgに\nチケットを起票してもらう\n
