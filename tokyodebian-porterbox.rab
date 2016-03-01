@@ -42,14 +42,14 @@
 * libhinawa
 * (('wait'))((*fcitx-imlist*))
 
-= [宣伝] fcitx-imlist(1)
+= [ANN] fcitx-imlist(1)
 
 * Fcitxユーザー向け\n
   (('note:For only Fcitx users'))
 * IMを((*コマンドラインから*))\n切り替えられる\n
   (('note:It switches input methods from command line'))
 
-= [宣伝] fcitx-imlist(2)
+= [ANN] fcitx-imlist(2)
 
 * (('del:犯行'))開発の動機\n
   (('note:The motivation to develop'))
@@ -59,7 +59,7 @@
     (('note:Not easy to switch IM in fcitx way'))
      * 例: 英語キーボード (('&#x21D4;')) 日本語キーボード
 
-= [宣伝] fcitx-imlist(3)
+= [ANN] fcitx-imlist(3)
 
   # coderay shell
   % fcitx-imlist -l
@@ -73,7 +73,7 @@
 
 * Usage: ((*fcitx-imlist -t*))
 
-= [宣伝] fcitx-imlist(4)
+= [ANN] fcitx-imlist(4)
 
   # coderay shell
   % sudo apt-get install fcitx-imlist
