@@ -93,8 +93,8 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 = 前提条件\n(('note:Prerequisite'))
 
-* 今回の発表の対象は\nDDでない人\n
-  (('note:This slide is prepared for non DD'))
+* 今回の発表の対象は\n((*DDでない人*))\n
+  (('note:This slide is prepared ((*for non DD*))'))
 
 = 今日の話\n(('note:Today's topics'))
 
