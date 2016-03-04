@@ -200,7 +200,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 = QEMU?
 
-= すぐ使えるイメージは？(('note:Where is images?'))
+= すぐ使えるイメージは？(('note:Where are prebuilt images?'))
 
 * https://people.debian.org/~aurel32/qemu/
   * prebuiltイメージはwheezyまで\n
