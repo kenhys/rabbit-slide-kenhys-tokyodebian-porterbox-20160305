@@ -349,14 +349,13 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 = etler.d.o(mipsel)豆知識\n(('note:Did you know?'))
 
-* CPUは龍芯3号
+* CPUは((*龍芯3号*)) by 中国科学院\n(('note:https://en.wikipedia.org/wiki/Loongson'))
 
     cpu model		: ICT Loongson-3 V0.5  FPU V0.1
     BogoMIPS		: 718.84
     wait instruction	: no
     microsecond timers	: yes
     tlb_entries		: 64
-
 
 = STEP3. チケットを\n起票せよ\n(('note:Create a ticket'))
 
@@ -400,7 +399,7 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 = ゴール\n(('note: Goal'))
 
 これでporterboxに\nアクセスできます。\nおめでとう！\n
-(('note:Now you can access to porterbox'))
+(('note:Congratulations! now you can access to porterbox'))
 
 = 注意\n(('note:Notice'))
 
@@ -430,6 +429,17 @@ Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
   (('note:Ticket is created by DD'))
 * DSAにアカウント登録してもらう\n
   (('note:An account is created by DSA'))
+
+= porterbox 想定問答集(1)\n(('note:FAQ?'))
+
+* Q. どれくらい混んでいる?\n(('note:How many users in each porterbox?'))
+* A. (('wait'))たいてい2〜3人くらい 自分1人ということもある(etler.d.o,minkus.d.o)\n(('note:Usually, there are three or less users'))
+
+= porterbox 想定問答集(2)\n(('note:FAQ?'))
+
+* Q. 使っていてつらいのはどんなとき?\n(('note:Are there any troublesome?'))
+* A. (('wait'))たまにgccビルドするやつがいる(('&#x1f61e;'))\n(('note:Sometimes there is a person who build gcc'))
+
 
 = さいごに
 
