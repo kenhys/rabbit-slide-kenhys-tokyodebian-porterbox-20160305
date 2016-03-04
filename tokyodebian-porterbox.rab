@@ -303,21 +303,27 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 * アクセスが必要な理由\n
   (('note:Why access is needed'))
 
-= STEP2.申請例\n(('note:Example'))
+= STEP2.申請例(続く)\n(('note:Example'))
 
   # coderay shell
   * First/Middle/Last-name
     HAYASHI Kentaro
   * Preferred username
     kenhys
-  * Key fingerprint of the PGP key, which needs to be on the keyserver network.
-    (fingerprint. Not a keyid. Not a link to a site that has a key or a keyserver.
-    A fingerprint.)
+  * Key fingerprint of the PGP key, which needs to be on the
+    keyserver network.
+    (fingerprint. Not a keyid. Not a link to a site that has
+    a key or a keyserver. A fingerprint.)
     D920 2564 0886 D27D 14A9  EE02 D22C 1A88 3455 D448
+
+= STEP2.申請例(続き)\n(('note:Example'))
+
+  # coderay shell
   * email address
     hayashi@clear-code.com
   * Signed agreement to abide by DMUP
-    I agree with DMUP to use porterbox (https://www.debian.org/devel/dmup.en.html)
+    I agree with DMUP to use porterbox
+    (https://www.debian.org/devel/dmup.en.html)
   * Machine(s)/Architecture(s) to which access is needed
     https://db.debian.org/machines.cgi?host=minkus for mips
     https://db.debian.org/machines.cgi?host=etler for mipsel
