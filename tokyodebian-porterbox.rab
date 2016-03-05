@@ -86,7 +86,7 @@
 
 閑話休題\n(('note:Back on topic'))
 
-= 質問\n(('note:Question'))
+= 質問(1)\n(('note:Question'))
 
 Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 (('note:Are there DD here?'))
@@ -96,6 +96,11 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 * 今回の発表の対象者は\n((*DDでない人*))\n
   (('note:This slide is prepared ((*for non DD*))'))
+
+= 質問(2)\n(('note:Question'))
+
+Q. 会場の中に\nporterbox使ったことある人(non DD限定)は\nいらっしゃいませんか?\n
+(('note:Have you (non DD) ever used porterbox?'))
 
 = 今日の話\n(('note:Today's topics'))
 
@@ -175,6 +180,9 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
   kfreebsd-amd64     asdfasdf.debian.net      public (non-DSA-machine)
   amd64              barriere.debian.org      public
   mipsel             etler.debian.org         public
+
+* 19サーバーあるよ(('tag:x-small'))(2016/03/05時点。arch重複含む)\n
+  (('note:There are 19 servers which includes same architecture'))
 
 = 今日の話\n(('note:Today's topics'))
 
@@ -436,11 +444,19 @@ Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
 = porterbox FAQ(1)\n(('note:FAQ?'))
 
 * Q. どれくらい混んでいる?\n(('note:How many users in each porterbox?'))
-* A. たいてい2〜3人くらい 自分1人ということもある(etler.d.o,minkus.d.o)\n(('note:Usually, there are three or less users'))
+
+= porterbox FAQ(1)\n(('note:FAQ?'))
+
+* Q. どれくらい混んでいる?\n(('note:How many users in each porterbox?'))
+* A. たいてい2〜3人くらい\n自分1人ということもある(etler.d.o,minkus.d.o)\n(('note:Usually, there are three or less users'))
 
 = porterbox FAQ(2)\n(('note:FAQ?'))
 
-* Q. 使っていてつらいのはどんなとき?\n(('note:Are there any troublesome?'))
+* Q. 使っていてつらいのは\nどんなとき?\n(('note:Are there any troublesome?'))
+
+= porterbox FAQ(2)\n(('note:FAQ?'))
+
+* Q. 使っていてつらいのは\nどんなとき?\n(('note:Are there any troublesome?'))
 * A. たまにgccビルドするやつがいる(('&#x1f61e;'))\n(('note:Sometimes there is a person who build gcc'))
 
 
