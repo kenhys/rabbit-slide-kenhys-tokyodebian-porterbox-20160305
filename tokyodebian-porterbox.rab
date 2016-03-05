@@ -257,14 +257,14 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 = 補足:申請に必要な情報(2)\n(('note:Required information to request'))
 
 * PGPキーのフィンガープリント\n
-  (('note:Key fingerprint'))
+  (('note:PGP key fingerprint'))
   * キーサーバーに登録されている\nものが必要\n
-    (('note:Key fingerprint must be registered on keyserver'))
+    (('note:PGP key fingerprint must be registered on keyserver'))
 
 = 補足:申請に必要な情報(3)\n(('note:Required information to request'))
 
 * PGPキーのフィンガープリント\n
-  (('note:Key fingerprint'))
+  (('note:PGP key fingerprint'))
   * db.debian.orgのパスワードは\n暗号化して送付される\n
     (('note:password for db.d.o is encrypted by this key'))
 
