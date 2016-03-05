@@ -40,7 +40,7 @@
 * groonga
 * groonga-normalizer-mysql
 * libhinawa
-* (('wait'))((*fcitx-imlist*))
+* ((*fcitx-imlist*))
 
 = [ANN] fcitx-imlist(1)
 
@@ -272,9 +272,9 @@ Q. 会場の中に\nDD(Debian Developer)は\nいらっしゃいませんか?\n
 
 * PGPキーのフィンガープリント
   (('note:Key fingerprint'))
-  * (('wait'))((*キーIDじゃない*))\n
+  * ((*キーIDじゃない*))\n
     (('note:Not a keyid'))
-  * (('wait'))((*キーへのリンクでもない*))\n
+  * ((*キーへのリンクでもない*))\n
     (('note:Not a link to key'))
 
 = 補足:申請に必要な情報(5)\n(('note:Required information to request'))
@@ -433,12 +433,12 @@ Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
 = porterbox 想定問答集(1)\n(('note:FAQ?'))
 
 * Q. どれくらい混んでいる?\n(('note:How many users in each porterbox?'))
-* A. (('wait'))たいてい2〜3人くらい 自分1人ということもある(etler.d.o,minkus.d.o)\n(('note:Usually, there are three or less users'))
+* A. たいてい2〜3人くらい 自分1人ということもある(etler.d.o,minkus.d.o)\n(('note:Usually, there are three or less users'))
 
 = porterbox 想定問答集(2)\n(('note:FAQ?'))
 
 * Q. 使っていてつらいのはどんなとき?\n(('note:Are there any troublesome?'))
-* A. (('wait'))たまにgccビルドするやつがいる(('&#x1f61e;'))\n(('note:Sometimes there is a person who build gcc'))
+* A. たまにgccビルドするやつがいる(('&#x1f61e;'))\n(('note:Sometimes there is a person who build gcc'))
 
 
 = さいごに
