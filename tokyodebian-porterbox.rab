@@ -25,7 +25,7 @@
 
 = 自己紹介(2)\n(('note:Profile'))
 
-* トラックポイント・ソフトドーム派
+* トラックポイント・\n((*ソフトドーム派?*))
 
 = 自己紹介(2)\n(('note:Profile'))
 
@@ -33,7 +33,8 @@
   # relative-height = 70
   # src = 100000001000433384_10203.jpg
 
-* トラックポイント・ソフトドーム派
+
+(('tag:center'))トラックポイント・\nソフトドーム派
 
 = これまでの実績\n(('note:As a contributor'))
 
@@ -430,12 +431,14 @@ Debianの\nインフラを借りるには\n(('note:The way to porterbox'))
 * DSAにアカウント登録してもらう\n
   (('note:An account is created by DSA'))
 
-= porterbox 想定問答集(1)\n(('note:FAQ?'))
+= porterbox 想定問答集\n(('note:FAQ?'))
+
+= porterbox FAQ(1)\n(('note:FAQ?'))
 
 * Q. どれくらい混んでいる?\n(('note:How many users in each porterbox?'))
 * A. たいてい2〜3人くらい 自分1人ということもある(etler.d.o,minkus.d.o)\n(('note:Usually, there are three or less users'))
 
-= porterbox 想定問答集(2)\n(('note:FAQ?'))
+= porterbox FAQ(2)\n(('note:FAQ?'))
 
 * Q. 使っていてつらいのはどんなとき?\n(('note:Are there any troublesome?'))
 * A. たまにgccビルドするやつがいる(('&#x1f61e;'))\n(('note:Sometimes there is a person who build gcc'))
