@@ -13,6 +13,11 @@
 : theme
   .
 
+= はじめに
+
+* このスライドはあとでRabbit Slide Showで公開します\n(('note:I'll publish this slide later'))
+  * http://slide.rabbit-shocker.org/
+
 = 自己紹介(1)\n(('note:Profile'))
 
   # image
